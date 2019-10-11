@@ -1,5 +1,5 @@
 # 1024app - Android
-草榴官方客户端，小草客户端，Android
+草榴客户端非官方，小草客户端，Android
 <br>
 <br>
 
