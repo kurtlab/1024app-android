@@ -14,3 +14,6 @@ https://t66y.com/read.php?tid=1648542
 
 
 添加了QMUI风格 就是为了好看点；然后界面省事点
+
+转移到新的库位
+https://github.com/kurtlab/1024appandroid
